@@ -1,0 +1,82 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.container{
+background-color: rgb(211, 211, 211);
+  min-height: 100vh;
+  border: 10px solid rgb(11, 11, 104);
+}
+.content{
+  max-width: 900px;
+  margin: 0 auto;
+}
+.image_container , img{
+  height: 320px;
+  width: 300px;
+}
+.image_container{
+  border-radius: 50%;
+  overflow: hidden;
+}
+.top_section h1{
+  font-size: 45px;
+  font-weight: bold;
+  color: rgb(1, 44, 44);
+  text-transform: uppercase;
+text-align: justify;
+}
+.top_section h4{
+  text-align: end;
+  font-size: 20px;
+}
+.top_section {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.About h2{
+  text-align: left;
+  font-size: 19px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bolder;
+
+} 
+.About{
+  margin-top: 50px;
+}
+.About p{
+  font-size:  20px ;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 200;
+  font-style: calc();
+  margin-top: 27px;
+  text-align: left;
+  line-height: 30px;
+  letter-spacing: 1.2px;
+  text-align: justify;
+}
+.Biography{
+margin-top: 20px;
+}
+.Biography h2{
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  letter-spacing: 0.5px;
+}
+.Biography ul{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+letter-spacing: 1.2px;
+margin-bottom: 30px;
+font-style: calc();
+font-weight: 200;
+font-size: 20px;
+text-align: justify;
+
+}
+footer{
+  margin: right;
+}
