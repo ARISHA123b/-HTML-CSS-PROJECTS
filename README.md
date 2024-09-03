@@ -1,4 +1,5 @@
 The projects include:
-1.A tribute Website
-2.Application form
-3.Parallax website
+project 1.A tribute Website
+project 2.Application form
+project 3.Parallax website
+project 4.Developer landing page
